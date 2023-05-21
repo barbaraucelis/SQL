@@ -2,7 +2,9 @@
 
 1. 
 Instalar e acessar o banco de dados MySQL
+
 Realizar consultas com SELECT e filtre com WHERE
+
 Adicionar dados no banco com o INSERT
 
 2.
